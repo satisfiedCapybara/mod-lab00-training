@@ -1,7 +1,7 @@
 // Copyright 2022 UNN-IASR
 #ifndef INCLUDE_FUN_H_
 #define INCLUDE_FUN_H_
-
-long long power(long long x, unsigned short n);
+#include <cstdint>
+int64_t power(int64_t x, uint16_t n);
 
 #endif  // INCLUDE_FUN_H_

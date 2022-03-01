@@ -1,6 +1,6 @@
-// Copyright 2022 NNTU-CS
+// Copyright 2022 UNN-IASR
 #include "fun.h"
 
-long long power(long long x, unsigned short n) {
+int64_t power(int64_t x, uint16_t n) {
     return 0;
 }

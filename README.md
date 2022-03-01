@@ -9,7 +9,7 @@
 Сигнатура функции:
 
 ```cpp
-long long power(long long x, unsigned short n)
+int64_t power(int64_t x, uint16_t n)
 ```
 
 - В заголовочный файл `fun.h` необходимо поместить заголовок функции.
