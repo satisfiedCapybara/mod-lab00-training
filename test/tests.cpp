@@ -1,7 +1,6 @@
 // Copyright 2020 UNN-IASR
-#include "fun.h"
-
 #include <gtest/gtest.h>
+#include "fun.h"
 
 TEST(MyFunTest, test1) {
   int64_t x = 2;
