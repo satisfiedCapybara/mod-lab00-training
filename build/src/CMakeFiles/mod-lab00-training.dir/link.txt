@@ -1,0 +1,1 @@
+/bin/c++ -fPIC -g  -shared -Wl,-soname,libmod-lab00-training.so -o libmod-lab00-training.so CMakeFiles/mod-lab00-training.dir/fun.cpp.o  -lpthread 

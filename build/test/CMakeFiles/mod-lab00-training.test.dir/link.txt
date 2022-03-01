@@ -1,0 +1,1 @@
+/bin/c++  -g   CMakeFiles/mod-lab00-training.test.dir/AllTests.cpp.o CMakeFiles/mod-lab00-training.test.dir/tests.cpp.o  -o mod-lab00-training.test  -Wl,-rpath,/home/semen/МИПИС/mod-lab00-training/build/src: ../src/libmod-lab00-training.so -lgtest -lpthread 
